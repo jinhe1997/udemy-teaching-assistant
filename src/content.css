@@ -1,0 +1,5 @@
+/* Ensure our app container is on top of Udemy's UI */
+#udemy-ai-assistant-root {
+  position: fixed;
+  z-index: 9999;
+}
